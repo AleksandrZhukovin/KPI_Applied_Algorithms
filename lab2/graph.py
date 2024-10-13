@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 
-__all__ = ('Graph', 'DirectedGraph', 'WeightedGraph',)
+__all__ = ('Graph', 'DirectedGraph', 'WeightedGraph', 'Node',)
 
 
 class Node:
